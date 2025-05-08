@@ -20,7 +20,7 @@ It simulates a secure message system where encryption, decryption, hashing, and 
 
 ## 📂 Files
 
-- `transposition_cipher.py`: Main Python file (all logic in one script)
+- `Proj1.py`: Main Python file (all logic in one script)
 - `README.md`: Project documentation
 
 ---
@@ -47,4 +47,20 @@ It simulates a secure message system where encryption, decryption, hashing, and 
 
 ---
 
-## 
+## 🧠 Concepts Used
+      Transposition cipher
+      Matrix manipulation
+      Hashing and integrity validation
+      Permutations and brute-force
+      Random key generation
+
+---
+
+##📌 Requirements
+     >>>  Python 3.x
+     >>>  NumPy (for random permutation): Install via pip install numpy
+---
+
+## 🤝 Author
+     Mangala-Manmatharaja
+
