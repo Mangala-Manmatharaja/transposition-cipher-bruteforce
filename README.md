@@ -56,7 +56,7 @@ It simulates a secure message system where encryption, decryption, hashing, and 
 
 ---
 
-##📌 Requirements
+## 📌 Requirements
      >>>  Python 3.x
      >>>  NumPy (for random permutation): Install via pip install numpy
 ---
