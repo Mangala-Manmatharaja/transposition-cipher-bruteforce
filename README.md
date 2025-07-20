@@ -1,4 +1,4 @@
-# 🔐 Transposition Cipher with Brute Fo
+# 🔐 Transposition Cipher with Brute For
 
 This Python project implements a **Transposition Cipher** encryption/decryption system enhanced with:
 - a custom hash for message validation,
